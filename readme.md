@@ -6,5 +6,5 @@ Este proyecto consiste en crear un pequeño programa que imprima **Hello, World!
 
 ---
 
-Autora: *Belén Agustina Mitetiero*
-Comisión: *K1053*
+- Autora: *Belén Agustina Mitetiero*
+- Comisión: *K1053*
